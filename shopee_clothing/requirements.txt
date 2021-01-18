@@ -1,0 +1,4 @@
+fake_useragent==0.1.11
+Twisted==18.7.0
+Scrapy==1.5.1
+FreeProxy==1.0.2
